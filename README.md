@@ -1,4 +1,4 @@
-# Trader Performance & Sentiment Analysis
+# Crypto Sentimenal Analysis
 
 ## Objective
 This project analyzes trader performance in relation to market sentiment phases (Fear, Greed, Neutral). The goal is to understand how PnL (Profit & Loss) outcomes vary with sentiment conditions and whether buy-side or sell-side positions perform better under different market moods.
@@ -39,7 +39,3 @@ The analysis highlights how market psychology impacts trading performance. This 
 - Timing entries/exits based on sentiment  
 - Understanding risk exposure under extreme sentiment conditions  
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/trader-behavior-insights.git
